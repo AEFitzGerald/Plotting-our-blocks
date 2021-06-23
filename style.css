@@ -2,8 +2,7 @@
     width: 950px;
     background-color: silver;
     margin: 20px auto;
-    padding: 20px 20px;
-    overflow: hidden;
+    padding: 20px;
 }
 
 .top-nav {
@@ -17,8 +16,7 @@
     display: inline-block;
     height: 300px;
     width: 200px;
-    padding: 0 10px;
-    margin: 20px 0 0 0;
+    margin-top: 20px;
     vertical-align: top;
 }
 
@@ -27,9 +25,8 @@
     height: 400px;
     width: 700px;
     background-color: red;
-    overflow: hidden;
-    margin: 20px 0 0 23px;
-    clear: both;
+    padding: 13px;
+    margin: 20px 0 0 20px;
 }
 
 .sub-content {
@@ -37,17 +34,14 @@
     display: inline-block;
     height: 200px;
     width: 210px;
-    margin: 15px 0 0 15px;
+    margin-right: 10px;
     vertical-align: top;
 }
 
 #advertisement {
     background-color: purple;
     height: 120px;
-    margin: 15px 0 0 15px;
-    padding: 5px;
+    margin-top: 20px;
     width: 660px;
-    
-    
 }
 
